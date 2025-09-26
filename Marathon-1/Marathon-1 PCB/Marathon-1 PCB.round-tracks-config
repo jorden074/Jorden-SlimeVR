@@ -1,0 +1,5 @@
+Default	False	2.0	3
+Battery	False	2.0	3
+Data	False	2.0	3
+Power	True	2.0	3
+False	True	False

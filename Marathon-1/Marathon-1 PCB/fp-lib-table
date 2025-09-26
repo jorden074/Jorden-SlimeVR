@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PTS526SM15SMTR2")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LIB_PTS526SM15SMTR2_LFS/KiCad")(options "")(descr ""))
+  (lib (name "KiCad")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LIB_SLW-88229-2-SMT-TR/KiCad")(options "")(descr ""))
+)

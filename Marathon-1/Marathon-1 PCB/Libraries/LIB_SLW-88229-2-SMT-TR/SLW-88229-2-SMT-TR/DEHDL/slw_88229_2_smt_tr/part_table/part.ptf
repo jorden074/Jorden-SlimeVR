@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SLW_88229_2_SMT_TR'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Same Sky", "SLW-88229-2-SMT-TR" (!) = "", "SLW882292SMTTR", "Other", "179-SLW-88229-2SMTTR", "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SLW-88229-2-SMT-TR?qs=1Kr7Jg1SGW9ZYMAFogLQTQ%3D%3D", "8.8 x 2 x 2.9 mm, 2 mm Raised Slide Actuator, Right-Angle, Surface Mount, Slide Switch", "https://www.sameskydevices.com/product/resource/supplyframepdf/slw-88229-2-smt-tr.pdf", "2.2 mm"
+END_PART
+
+END.

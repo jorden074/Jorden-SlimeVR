@@ -1,0 +1,9 @@
+Manufacturer=Same Sky
+PartNumber=SLW-88229-2-SMT-TR
+PartCategory=Switch
+PackageCategory=Other
+PinCount=5
+Version=3.4
+Released=2023-11-13 05:04:09
+Downloaded=2025-05-30 03:29:55
+3D=Y

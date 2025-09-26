@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model SLW-88229-2-SMT-TR
+#/18671401/1690728/2.50/5/2/Switch
+DEF SLW-88229-2-SMT-TR S 0 30 Y Y 1 F N
+F0 "S" 750 300 50 H V L CNN
+F1 "SLW-88229-2-SMT-TR" 750 200 50 H V L CNN
+F2 "SLW882292SMTTR" 750 100 50 H I L CNN
+F3 "https://www.sameskydevices.com/product/resource/supplyframepdf/slw-88229-2-smt-tr.pdf" 750 0 50 H I L CNN
+F4 "8.8 x 2 x 2.9 mm, 2 mm Raised Slide Actuator, Right-Angle, Surface Mount, Slide Switch" 750 -100 50 H I L CNN "Description"
+F5 "2.2" 750 -200 50 H I L CNN "Height"
+F6 "179-SLW-88229-2SMTTR" 750 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SLW-88229-2-SMT-TR?qs=1Kr7Jg1SGW9ZYMAFogLQTQ%3D%3D" 750 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Same Sky" 750 -500 50 H I L CNN "Manufacturer_Name"
+F9 "SLW-88229-2-SMT-TR" 750 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+X 3 3 0 -200 200 R 50 50 0 0 P
+X MH1 MH1 900 0 200 L 50 50 0 0 P
+X MH2 MH2 900 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 700 100 700 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

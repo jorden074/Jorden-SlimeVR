@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SLW-88229-2-SMT-TR
+D 8.8 x 2 x 2.9 mm, 2 mm Raised Slide Actuator, Right-Angle, Surface Mount, Slide Switch
+K
+F https://www.sameskydevices.com/product/resource/supplyframepdf/slw-88229-2-smt-tr.pdf
+$ENDCMP
+#
+#End Doc Library

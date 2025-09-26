@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PTS526SM15SMTR2_LFS")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LIB_PTS526SM15SMTR2_LFS/KiCad/PTS526SM15SMTR2_LFS.kicad_sym")(options "")(descr ""))
+  (lib (name "SLW-88229-2-SMT-TR")(type "KiCad")(uri "${KIPRJMOD}/Libraries/LIB_SLW-88229-2-SMT-TR/KiCad/SLW-88229-2-SMT-TR.kicad_sym")(options "")(descr ""))
+)

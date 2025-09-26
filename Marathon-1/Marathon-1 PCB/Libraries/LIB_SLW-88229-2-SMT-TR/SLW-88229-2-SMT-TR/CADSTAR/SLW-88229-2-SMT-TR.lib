@@ -1,0 +1,17 @@
+.SLW-88229-2-SMT-TR :1 ;8.8 x 2 x 2.9 mm, 2 mm Raised Slide Actuator, Right-Angle, Surface Mount, Slide Switch
+SLW882292SMTTR
+*STM S
+*NGS
+*PNM 1=1 2=2 3=3 4=MH1 5=MH2
+*PLB 1="1" 2="2" 3="3" 4="MH1" 5="MH2"
+*MXP 5
+*DFN SLW-88229-2-SMT-TR
+~!Mouser Part Number (179-SLW-88229-2SMTTR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/CUI-Devices/SLW-88229-2-SMT-TR?qs=1Kr7Jg1SGW9ZYMAFogLQTQ%3D%3D)
+~!Manufacturer_Name (Same Sky)
+~!Manufacturer_Part_Number (SLW-88229-2-SMT-TR)
+~!Link Datasheet (https://www.sameskydevices.com/product/resource/supplyframepdf/slw-88229-2-smt-tr.pdf)
+~!Height (2.2mm)
+~!3D_Model (SLW-88229-2-SMT-TR)
+SLW-88229-2-SMT-TR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

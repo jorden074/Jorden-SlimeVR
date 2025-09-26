@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SLW-88229-2-SMT-TR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-11-13-05:04:09)
+    (mountForm default
+        (footprintRef "SLW882292SMTTR")
+        (spec "System")
+    )
+)

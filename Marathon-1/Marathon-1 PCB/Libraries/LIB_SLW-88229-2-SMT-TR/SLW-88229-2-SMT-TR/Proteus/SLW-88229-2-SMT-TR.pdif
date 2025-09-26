@@ -1,0 +1,171 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "SLW-88229-2-SMT-TR"
+   (description "8.8 x 2 x 2.9 mm, 2 mm Raised Slide Actuator, Right-Angle, Surface Mount, Slide Switch")
+   (family "SWI")
+   (package "SLW882292SMTTR")
+   (attribute "Datasheet Link" "https://www.sameskydevices.com/product/resource/supplyframepdf/slw-88229-2-smt-tr.pdf")
+   (attribute "Geometry.Height" "2.2mm")
+   (attribute "Mouser Part Number" "179-SLW-88229-2SMTTR")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/CUI-Devices/SLW-88229-2-SMT-TR?qs=1Kr7Jg1SGW9ZYMAFogLQTQ%3D%3D")
+   (attribute "Manufacturer_Name" "Same Sky")
+   (attribute "Manufacturer_Part_Number" "SLW-88229-2-SMT-TR")
+   (gate
+    (symbol "SLW-88229-2-SMT-TR")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+    (pin "3" 3 PS)
+    (pin "MH1" MH1 PS)
+    (pin "MH2" MH2 PS)
+   )
+  )
+  (symbol "SLW-88229-2-SMT-TR"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 700 100) (pt 700 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SLW882292SMTTR"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.4 0.95)
+      (pt 4.4 0.95)
+      (pt 4.4 -1.95)
+      (pt -4.4 -1.95)
+      (pt -4.4 0.95))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -5.4 3.95)
+      (pt 5.4 3.95)
+      (pt 5.4 -4.85)
+      (pt -5.4 -4.85)
+      (pt -5.4 3.95))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1.75 0.95)
+      (pt -1.75 2.75)
+      (pt -1.6 2.95)
+      (pt -0.4 2.95)
+      (pt -0.25 2.75)
+      (pt -0.25 0.95))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 2 0.95)
+      (pt -2 0.95))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -1.75 0.95)
+      (pt -1.75 2.75)
+      (pt -1.6 2.95)
+      (pt -0.4 2.95)
+      (pt -0.25 2.75)
+      (pt -0.25 0.95))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -4.4 0.95)
+      (pt -4.4 -1.95)
+      (pt -2 -1.95))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 4 -1.95)
+      (pt 4.4 -1.95)
+      (pt 4.4 0.95))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1 -4.4)
+      (arc (pt -1.000 -4.400) (pt -1.050 -4.400) (pt -0.950 -4.300) (start 180.0) (sweep -90.0))
+      (pt -1 -4.3)
+      (arc (pt -1.000 -4.300) (pt -1.050 -4.400) (pt -0.950 -4.300) (start 180.0) (sweep 90.0))
+      (pt -1 -4.4))))
+   (leg 1 (pt -1.000 -2.950) (padstack 0))
+   (leg 2 (pt 1.000 -2.950) (padstack 0))
+   (leg 3 (pt 3.000 -2.950) (padstack 0))
+   (leg MH1 (pt -3.150 0.850) (padstack 4))
+   (leg MH2 (pt 3.150 0.850) (padstack 5))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.000 1.800 0 0 90.000))
+   )
+   (padstack 4
+    (hole 0.8)
+    (plated true)
+    (pad (layer TCOP) (round 1.300))
+    (pad (layer INNER) (round 1.300))
+    (pad (layer BCOP) (round 1.300))
+   )
+   (padstack 5
+    (hole 0.8)
+    (plated true)
+    (pad (layer TCOP) (round 1.300))
+    (pad (layer INNER) (round 1.300))
+    (pad (layer BCOP) (round 1.300))
+   )
+   (model "SLW-88229-2-SMT-TR.stp"
+    (euler -90 0 0)
+    (offset 0 0.9800000190734863 1.100000023841858)
+   )
+  )
+ )
+)
