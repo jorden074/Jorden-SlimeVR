@@ -10,6 +10,4 @@ This repository contains all my open-source tracker designs, and their correspon
 ### Overview
 Seed Studio XIAO nRF52840 based 'smol' tracker with an oversized battery for those who can never remember to charge their trackers... <3
 
-![VR tracker slotted in mount](./Assets/Marathon1-CAD-Screenshot.png)
-
 ![VR tracker slotted in mount](./Assets/Marathon1-Render-1.jpeg)
