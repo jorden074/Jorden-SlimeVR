@@ -7,7 +7,7 @@ All designs are made within FOSS programs as to be edited by anyone.
 - KiCAD
 - Blender
 
-## Marathon-1 __WIP__
+## Marathon-1 *WIP*
 ### Overview
 Seed Studio XIAO nRF52840 based 'smol' tracker with an oversized battery for those who can never remember to charge their trackers... <3
 
